@@ -2,7 +2,7 @@ name: AI Job Hunter
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '40 13 * * *'
   workflow_dispatch:
 
 jobs:
@@ -26,3 +26,4 @@ jobs:
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         TO_EMAIL: ${{ secrets.TO_EMAIL }}
       run: python job_agent.py
+
