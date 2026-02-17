@@ -17,8 +17,8 @@ EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
 TO_EMAIL = os.environ.get("TO_EMAIL")
 
 KEYWORDS = ["python", "developer", "backend", "software"]
-LOCATION_FILTER = ""        
-MIN_SALARY =               
+LOCATION_FILTER =""
+MIN_SALARY =
 MAX_JOBS = 10
 # ============================
 
