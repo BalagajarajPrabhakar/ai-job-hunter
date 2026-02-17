@@ -1,0 +1,54 @@
+Balagajaraj Prabhakar
+Email: balagajaraj@example.com
+Location: India
+Phone: +91-XXXXXXXXXX
+
+Professional Summary:
+Results-driven Software Developer with 3+ years of experience in Python development, backend engineering, and REST API design. Strong experience in building scalable web applications, integrating third-party APIs, and deploying applications to cloud platforms. Passionate about automation, AI systems, and problem-solving.
+
+Technical Skills:
+Programming Languages: Python, JavaScript, SQL
+Frameworks: Django, Flask, FastAPI
+Frontend: HTML, CSS, React.js
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud & DevOps: AWS, Docker, GitHub Actions, Linux
+Tools: Git, REST APIs, Postman, VS Code
+
+Experience:
+
+Backend Developer – ABC Technologies
+Jan 2022 – Present
+- Developed RESTful APIs using Django and FastAPI.
+- Designed scalable backend architecture for SaaS applications.
+- Integrated payment gateways and third-party APIs.
+- Optimized database queries improving performance by 30%.
+- Deployed applications using Docker and AWS EC2.
+
+Software Developer – XYZ Solutions
+Jun 2020 – Dec 2021
+- Built internal automation tools using Python.
+- Developed data processing scripts and ETL pipelines.
+- Worked with PostgreSQL and MySQL databases.
+- Collaborated in Agile development teams.
+
+Projects:
+
+AI Job Automation System
+- Built an automated job filtering and email notification system using Python.
+- Implemented CV-job similarity scoring using TF-IDF and cosine similarity.
+- Deployed using GitHub Actions for scheduled automation.
+
+E-commerce Backend API
+- Developed backend services for product management and order processing.
+- Implemented authentication and JWT-based security.
+
+Education:
+Bachelor of Engineering in Computer Science
+Anna University – 2020
+
+Certifications:
+- AWS Cloud Practitioner
+- Python for Data Science
+
+Interests:
+Artificial Intelligence, Backend Engineering, Automation Systems, Cloud Computing
